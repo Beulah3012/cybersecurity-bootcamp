@@ -15,5 +15,13 @@ if [ -f /var/log/syslog ]; then
     echo "Syslog found!"
 else
     echo "Syslog missing!"
+fi
 
+logfile="test.log"
+echo "test" > test.log
+if [ $logfile ]; then
+
+    echo "Found!"
+else
+    echo "Not found!"
 fi
