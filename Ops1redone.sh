@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#1. Open `102-1_lab.sh` in VS Code.
+#1. Open `Ops1redone.sh` in VS Code.
 #2. Write a script that:
 # Stores your name in a variable (e.g., `username="YourName"`)
 # Prints a greeting (e.g., “Hello, YourName!”)
