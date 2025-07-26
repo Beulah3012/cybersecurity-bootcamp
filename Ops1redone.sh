@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #1. Open `Ops1redone.sh` in VS Code.
+#1. Open `Ops1redone.sh` in VS Code.
 #2. Write a script that:
 # Stores your name in a variable (e.g., `username="YourName"`)
 # Prints a greeting (e.g., “Hello, YourName!”)
@@ -15,13 +16,5 @@ if [ -f /var/log/syslog ]; then
     echo "Syslog found!"
 else
     echo "Syslog missing!"
-fi
 
-logfile="test.log"
-echo "test" > test.log
-if [ $logfile ]; then
-
-    echo "Found!"
-else
-    echo "Not found!"
 fi
