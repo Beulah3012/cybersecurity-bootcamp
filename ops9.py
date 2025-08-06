@@ -3,7 +3,6 @@
 #Check ports 80, 443 on a host (e.g., “localhost”).
 #Use socket to test connections.
 
-
 import socket
 
 host = "localhost"
