@@ -1,3 +1,4 @@
+# Week 7, Thursday
 # Write a Python script to list running services, reinforcing service management.
 # Task:
 # Script to:
