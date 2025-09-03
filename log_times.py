@@ -1,3 +1,4 @@
+# week 6, Thursday
 # Objective: Write a Python script to list files in C:\Windows\Logs, simulating log file checks.
 # Script to:
 # Take a directory path (e.g., C:\Windows\Logs).
