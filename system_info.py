@@ -1,4 +1,4 @@
-# week 7, Tuesday
+# week 8, Tuesday
 # Objective: Write a Python script to check system info from registry, reinforcing monitoring skills.
 # Task:
 # Script to:

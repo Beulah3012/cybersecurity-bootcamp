@@ -1,4 +1,4 @@
-# Week 7, Thursday
+# Week 8, Thursday
 import csv
 import os
 

@@ -1,4 +1,4 @@
-# week 7, Wednesday
+# week 8, Wednesday
 # Objective: Write a Python script to check user account status, reinforcing management skills.
 # Task:
 # Script to:
