@@ -2,7 +2,7 @@
 # Task:
 # Script to:
 # Read a .csv log file (e.g., security_log.csv).
-List Event ID 4625 entries (failed logins).
+# List Event ID 4625 entries (failed logins).
 # Print event details (e.g., time, user).
 # Handle errors.
 # Hints:
