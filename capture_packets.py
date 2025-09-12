@@ -1,3 +1,11 @@
+# September 11th 2025
+# Objective: Write a Pythonscript to capture packets, reinforcing OSI Layers 2–4.
+# Task: Script to:
+# Capture 5 packets using scapy (e.g., ICMP or TCP).
+# Print source/destination IPs (Layer 3) and ports (Layer 4, if TCP/UDP).
+# Handle errors (e.g., no packets). Hints: Use scapy (pip install scapy). Run as AdminUser in Command Prompt. Compare with Wireshark output.
+# Deliverable: Save script as capture_packets.py in C:\Users\AdminUser. Run: python capture_packets.py. Submit: Script and screenshot of output
+
 from scapy.all import sniff
 from datetime import datetime
 
