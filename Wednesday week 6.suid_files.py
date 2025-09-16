@@ -11,7 +11,7 @@
 import os
 
 path = "/usr/bin"
-print("SUID files in:", path)
+print("SUID files in", path)
 
 for name in os.listdir(path):
     p = os.path.join(path, name)
